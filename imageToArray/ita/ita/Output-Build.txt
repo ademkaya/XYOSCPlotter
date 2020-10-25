@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: ita, Configuration: Debug Any CPU ------
+1>E:\PROGRAM FILES\Microsoft Visual Studio\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(4187,5): error MSB3021: Unable to copy file "obj\Debug\ita.exe" to "bin\Debug\ita.exe". Access to the path 'bin\Debug\ita.exe' is denied.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

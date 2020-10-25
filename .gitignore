@@ -55,6 +55,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+XYOSCPlotter/Objects
+XYOSCPlotter/Listing
 
 ### Csharp ###
 ## Ignore Visual Studio temporary files, build results, and
