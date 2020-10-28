@@ -106,6 +106,9 @@ int main(void)
 
 	}
 	
+	free(XArr);
+	free(YArr);
+	
 	return 0;
 }
 
